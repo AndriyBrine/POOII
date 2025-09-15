@@ -1,11 +1,11 @@
 import javax.swing.JOptionPane;
 
-public class Aula09 extends javax.swing.JFrame {
+public class Aula09_EventosnoBotao extends javax.swing.JFrame {
 
     /**
      * Creates new form Aula09
      */
-    public Aula09() {
+    public Aula09_EventosnoBotao() {
         initComponents();
     }
 
