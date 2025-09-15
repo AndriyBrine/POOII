@@ -1,0 +1,19 @@
+import javax.swing.JOptionPane;
+
+public class Aula07 {
+    public static void main(String args[]) {
+/* COISAS QUE ELE PASSOU NA AULA E DEPOIS APAGOU:
+       String nome = JOptionPane.showInputDialog("Digite o seu nome ");
+        JOptionPane.showMessageDialog(null, "Ola " + nome + " Seja bem vindo!");
+
+        int resposta = JOptionPane.showConfirmDialog(null, "Deseja continuar?");
+        if(resposta == JOptionPane.YES_OPTION){
+            JOptionPane.showMessageDialog(null, "Você escolheu continuar");
+        } else {
+            JOptionPane.showMessageDialog(null, "Você escolheu não continuar");
+        } */
+        JOptionPane.showMessageDialog(null, "Exemplo de mensagem","Exemplo", JOptionPane.INFORMATION_MESSAGE);
+
+    }
+}
+ 
