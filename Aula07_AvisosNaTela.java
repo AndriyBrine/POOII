@@ -2,7 +2,7 @@ import javax.swing.JOptionPane;
 
 public class Aula07_AvisosNaTela {
     public static void main(String args[]) {
-/* COISAS QUE ELE PASSOU NA AULA E DEPOIS APAGOU:
+/* COISAS PASSADAS NA AULA:
        String nome = JOptionPane.showInputDialog("Digite o seu nome ");
         JOptionPane.showMessageDialog(null, "Ola " + nome + " Seja bem vindo!");
 
@@ -18,3 +18,4 @@ public class Aula07_AvisosNaTela {
 }
 
  
+
