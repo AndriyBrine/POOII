@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class Aula07 {
+public class Aula07_AvisosNaTela {
     public static void main(String args[]) {
 /* COISAS QUE ELE PASSOU NA AULA E DEPOIS APAGOU:
        String nome = JOptionPane.showInputDialog("Digite o seu nome ");
@@ -16,4 +16,5 @@ public class Aula07 {
 
     }
 }
+
  
