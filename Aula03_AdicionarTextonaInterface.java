@@ -1,8 +1,5 @@
 public class Aula03_AdicionarTextonaInterface extends javax.swing.JFrame {
 
-    /**
-     * Creates new form Aula03
-     */
     public Aula03_AdicionarTextonaInterface() {
         initComponents();
     }
