@@ -1,18 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
-
-/**
- *
- * @author 20241tiimi0062
- */
-public class Aula04 extends javax.swing.JFrame {
+public class Aula04_BotoesnaInterface extends javax.swing.JFrame {
 
     /**
      * Creates new form Aula03
      */
-    public Aula04() {
+    public Aula04_BotoesnaInterface() {
         initComponents();
     }
 
