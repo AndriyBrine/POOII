@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class Aula08 {
+public class Aula08_CalculadoraBasica {
     public static void main(String args[]) {
 
         String valor1 = JOptionPane.showInputDialog("Digite o primeiro valor: ");
@@ -17,3 +17,4 @@ public class Aula08 {
         
     }
 }
+
