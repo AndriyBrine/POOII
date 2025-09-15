@@ -1,19 +1,10 @@
 import javax.swing.JOptionPane;
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
-
-/**
- *
- * @author 20241tiimi0062
- */
-public class Aula14 extends javax.swing.JFrame {
+public class Aula14_CamposdeSenha extends javax.swing.JFrame {
 
     /**
      * Creates new form Aula14
      */
-    public Aula14() {
+    public Aula14_CamposdeSenha() {
         initComponents();
     }
 
