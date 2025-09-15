@@ -1,11 +1,5 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
-
-/**
- *
- * @author 20241tiimi0062
+OUTRA JANELA NECESSÁRIA PARA FUNCIONAR A ATIVIDADE 10
  */
 public class Aula101 extends javax.swing.JFrame {
 
